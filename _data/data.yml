@@ -50,91 +50,71 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    Degree in Economics with previous studies in Telematics, with 3 years of experience in the technology sector, holding positions as Office Manager, Junior Scrum Master and Junior Market Research Analyst, besides starting a local clothing brand "Rodsmx" with my brother and establishing a Digital Services Studio for Companies "WD Studio" I am passionate about human relations and I like to know the why of things, curious by nature. I consider myself proactive and self-taught in programming, I like to learn new things. I am currently looking to join an innovative team that will give me the opportunity to grow professionally and personally, as well as support me to positively impact my environment.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree: Bachelor's Degree in Economics
+    university: University of Colima
+    time: 2016 Aug - 2021
     details: |
+    Profession in which the economic phenomena of the global reality are scientifically evaluated through the understanding of: production, distribution, exchange and consumption of goods and services that satisfy the needs of man and society.
 
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
+  - degree: Telematics Engineer
+    university: University of Colima
+    time: 2011 - 2013
     details: |
-      Unsupervised deep learning for automatic behavior analysis
+    Unfinished degree
+      The Telematics Engineering degree studies the analysis, design, implementation, adaptation and articulation of Information and Communication Technologies (ICT) from a scientific-technological vision in the management, use and protection of goods and services for the innovation of telematic systems.
 
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
+  - degree: Programmer Analyst Technician
+    university: University of Colima
+    time: 2008 - 2011
     details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
+      Elaboration of information systems for data and file management, implementation of application systems, development of programs for data handling and manipulation, archiving and for the control of computer equipment.
 
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Web Consultant
+    time: 2021 - Present
+    company: C21 Nuusca, México
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      Planning, layout and design of websites for real estate developments in charge of the corporate. 
+      Creation of marketing campaigns, support in graphic design and creative production.
+        - Website development
+        - Implementation of new online business models
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Web Developer | Web Designer (WD Studio Founder)
+    time: 2021 - 2022
+    company: WD Studio, México
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      Digital and consulting services for businesses, focused on growth and expansion. Support, updating, creation of websites, online stores, etc.
+      Customized solutions.
 # Registra aquí los proyectos en los que has participado
 projects:
     title: Projects
     
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Segurizap
+        link: "https://segurizap.com.mx/"
+        tagline: "E-commerce implemented for a store that supplies products focused on industrial safety."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Villa Optica
+        link: "https://villaoptica.com.mx/"
+        tagline: "E-commerce implemented for a store specialized in ophthalmology and prescription lenses."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Casa Tauro
+        link: "https://casatauro.com.mx/"
+        tagline: "Informative and contact website for luxury accommodation in the exclusive Careyes coast, implementation of a partial reservation center."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Okboy
+        link: "https://www.okboy.app/"
+        tagline: "Participation as scrum master in a stage of the project before going into production."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Vetta
+        link: "https://vetta.io/"
+        tagline: "Participation as Junior Market Research Analyst for the implementation of new business models within the company or for external clients.""
         
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -146,23 +126,23 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
-      level: 20%
-
-    - name: PyTorch
-      level: 40%
-
-    - name: Tensorflow
-      level: 60%
-
-    - name: Caffe
+    - name: HTML
       level: 80%
 
-    - name: Matlab
-      level: 100%
+    - name: CSS
+      level: 60%
 
-    - name: C/C++
+    - name: PHP
       level: 40%
+
+    - name: Ruby
+      level: 20%
+
+    - name: Ruby on Rails
+      level: 20%
+
+    - name: Javascript
+      level: 20%
 
 # NO MODIFICAR
 footer: >
